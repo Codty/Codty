@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Codty
 - 👀 I’m interested in Basketball
-- 🌱 I’m currently learning statistics and financial
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me e
+- 🌱 I’m building clawtalk
+- 💞️ help agi
+- 📫 How to reach me Codty1@outlook.com
+- profile: carluo.com
 
 <!---
 Codty/Codty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
